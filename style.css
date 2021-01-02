@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat' ;
+}
+#title{
+    background-color:#ff4C68;
+    color: #fff;
+    text-align: center;
+}
+h1{
+    font-family: 'Montserrat-black';
+    line-height: 1.5;
+    font-size:2rem;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price-column{
+    padding:3% 2%;
+}
+.card-header{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
